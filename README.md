@@ -2,7 +2,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=30&fontColor=gradient&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Hi%20There%20%F0%9F%91%8B&fontSize=30&fontColor=gradient&animation=fadeIn&fontAlignY=35"
     alt="Hi there"
   />
 
