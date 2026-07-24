@@ -2,7 +2,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:7C3AED&height=175&section=header&text=Ling%20WANG&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Vision%20%C2%B7%20Multimodal%20Intelligence%20%C2%B7%20Embodied%20AI&descSize=16&descAlignY=56"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,45:1E3A8A,100:7C3AED&height=175&section=header&text=Hey%20there%20%F0%9F%8C%9F%20this%20is%20Ling%20Wang&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Vision%20%C2%B7%20Multimodal%20Intelligence%20%C2%B7%20Embodied%20AI&descSize=16&descAlignY=56"
     alt="Ling WANG"
   />
 
@@ -12,9 +12,9 @@
   />
 </div>
 
-<div class="research-signature">
+<div>
   I build models that can
-  <span class="ann ann-ne ann-blue" data-note="Vision">see</span>,
-  <span class="ann ann-n ann-purple ann-reason" data-note="LLMs">reason</span>, and
-  <span class="ann ann-nw ann-green" data-note="Agent">act</span>.
+  <img src="https://img.shields.io/badge/see-blue?style=flat-square&logo=applens&logoColor=white" alt="see" style="vertical-align: middle;" />,
+  <img src="https://img.shields.io/badge/reason-purple?style=flat-square&logo=probot&logoColor=white" alt="reason" style="vertical-align: middle;" />, and
+  <img src="https://img.shields.io/badge/act-green?style=flat-square&logo=ros&logoColor=white" alt="act" style="vertical-align: middle;" />.
 </div>
