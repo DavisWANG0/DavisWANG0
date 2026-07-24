@@ -15,8 +15,8 @@
 
   <a href="https://daviswang0.github.io/">
     <img
-      src="https://img.shields.io/badge/Explore_My_Homepage_%E2%86%92-6366F1?style=for-the-badge"
-      alt="Explore My Homepage"
+      src="https://img.shields.io/badge/ENTER_MY_HOMEPAGE_%3E-6366F1?style=for-the-badge"
+      alt="Enter My Homepage"
     />
   </a>
 </div>
