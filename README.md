@@ -15,7 +15,7 @@
 
   <a href="https://daviswang0.github.io/">
     <img
-      src="https://img.shields.io/badge/Explore_My_Homepage-6366F1?style=for-the-badge&logo=safari&logoColor=white"
+      src="https://img.shields.io/badge/Explore_My_Homepage_%E2%86%92-6366F1?style=for-the-badge"
       alt="Explore My Homepage"
     />
   </a>
