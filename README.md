@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:7C3AED&height=150&section=header&text=Hey%20there%20%F0%9F%8C%9F%20this%20is%20Ling%20Wang&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:7C3AED&height=120&section=header&text=Ling%20WANG&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
     alt="Name"
   />
 
